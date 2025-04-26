@@ -9,10 +9,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 function Navbar() {
     return (
         <div className="Navbar">
-            <div className="logo">
-
-   
-                </div>
+          
 
            
             <div className="header-bar">
