@@ -11,7 +11,7 @@ function Navbar() {
         <div className="Navbar">
             <div className="logo">
 
-      <Logo/>
+   
                 </div>
 
            
