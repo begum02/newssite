@@ -1,5 +1,5 @@
 import './App.css';
-import Navbar from '../components/Navbar'; // named deðil, default export yapmýþsýn
+import Navbar from '../components/Navbar'; // named deï¿½il, default export yapmï¿½ï¿½sï¿½n
 import AdSense from '../components/AdSense'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
         <div className="App" >
             <Navbar />
             <AdSense data-ad-client="ca-pub-9070289581248556"
-                data-ad-slot="7674816160" />
+                data-ad-slot="2656700889" />
         </div>
     );
 }
